@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hr.franjkovic.ivan.myway">
+
+    <application>
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/app_settings" />
+    </application>
+
+</manifest>

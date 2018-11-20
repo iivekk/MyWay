@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name" translatable="false">MyWay</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">LATITUDE:</string>
+    <string name="longitude">LONGITUDE:</string>
+    <string name="distance">DISTANCE:</string>
+    <string name="speed">SPEED:</string>
+    <string name="altitude">ALTITUDE:</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="time">TIME:</string>
+    <string name="min" translatable="false">MIN</string>
+    <string name="max">MAX</string>
+    <string name="total">TOTAL</string>
+    <string name="distance1">DISTANCE</string>
+    <string name="back">Back</string>
+    <string name="max_speed">MAX</string>
+    <string name="average_speed">AVERAGE</string>
+    <string name="speed1">SPEED</string>
+    <string name="min_altitude" translatable="false">MIN</string>
+    <string name="max_altitude">MAX</string>
+    <string name="altitude1">ALTITUDE</string>
+    <string name="no_value" translatable="false">....</string>
+    <string name="km" translatable="false">" km"</string>
+    <string name="km_h" translatable="false">" km/h"</string>
+    <string name="meters" translatable="false">" m"</string>
+    <string name="track_is_saved">Track is saved</string>
+    <string name="track_not_saved">Track is not saved!</string>
+    <string name="track_date">TRACK DATE:</string>
+    <string name="start_time">START TIME:</string>
+    <string name="end_time">END TIME:</string>
+    <string name="duration_time">DURATION TIME:</string>
+    <string name="track_length">TRACK LENGTH:</string>
+    <string name="average_speed_info">AVERAGE SPEED:</string>
+    <string name="max_speed_info">MAX. SPEED:</string>
+    <string name="min_altitude_info">MIN. ALTITUDE:</string>
+    <string name="max_altitude_info">MAX. ALTITUDE:</string>
+    <string name="name">NAME:</string>
+    <string name="default_track_name">Track</string>
+    <string name="input_track_name_title">Input the name of the track!</string>
+    <string name="save_cancel_title">Are you sure you want to cancel before saving?</string>
+    <string name="track_is_not_saved_warning">Track is not saved!</string>
+    <string name="delete_track_warning_message">Are you sure you want to delete the track?</string>
+    <string name="settings">Settings</string>
+    <string name="sound_settings">Sound</string>
+    <string name="vibration_settings">Vibration</string>
+    <string name="clear_data_key" translatable="false">clear_data</string>
+    <string name="delete_all_track_data_title">This will delete all track data!</string>
+    <string name="delete_all_tracks_msg">Are you sure you want to delete all the tracks?</string>
+    <string name="home_screen">Home screen</string>
+    <string name="distance_screen">Distance screen</string>
+    <string name="speed_screen">Speed screen</string>
+    <string name="altitude_screen">Altitude screen</string>
+    <string name="tracklist">Tracklist</string>
+    <string name="exit_from_app">Exit from app</string>
+    <string name="vibration_on_off" translatable="false">vibration_on_off</string>
+    <string name="sound_on_off" translatable="false">sound_on_off</string>
+    <string name="sound_off">Turn on/off sound: OFF</string>
+    <string name="sound_on">Turn on/off sound: ON</string>
+    <string name="vibrations_off">Turn on/off vibrations: OFF</string>
+    <string name="vibrations_on">Turn on/off vibrations: ON</string>
+    <string name="clear_list_summary">Clear the list of tracks</string>
+    <string name="clear_data">Clear data</string>
+    <string name="active_time">ACTIVE TIME:</string>
+    <string name="start_track_map">Start track</string>
+    <string name="end_track_map">End Track</string>
+    <string name="data_is_deleted">Data is deleted</string>
+    <string name="active_time_toast">"Active time: "</string>
+    <string name="myway" translatable="false">MyWay</string>
+    <string name="save">save</string>
+    <string name="map">map</string>
+    <string name="cancel">cancel</string>
+    <string name="delete_track_title_dialog">Delete track!</string>
+</resources>
